@@ -1,7 +1,7 @@
 ﻿namespace ClassLibrary;
 
 /// <summary>
-/// This documentation is kinda okay.
+/// This documentation is awesome.
 /// </summary>
 public class Class1
 {
